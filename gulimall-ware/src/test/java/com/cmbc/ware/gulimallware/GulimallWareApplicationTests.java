@@ -1,4 +1,4 @@
-package com.cmbc.gulimall.gulimallware;
+package com.cmbc.ware.gulimallware;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package com.cmbc.gulimall;
+package com.cmbc.member;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

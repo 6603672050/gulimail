@@ -20,5 +20,10 @@
         <module>gulimall-order</module>
         <module>gulimall-product</module>
         <module>gulimall-ware</module>
+        <module>renren-fast-master</module>
+        <module>renren-generator-master</module>
+        <module>gulimall-gateway</module>
+        <module>gulimall-third-party</module>
+        <module>gulimall-common</module>
     </modules>
 </project>
